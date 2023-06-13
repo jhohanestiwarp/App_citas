@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+ciRxzumrGr1PtD4rr0RQ/CI07lNqNKguDMw9/ZZw1N/PSbML2XW5hg1Qh7ombp02rkVm/P7gE7dM8euy3Reg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alejo\\source\\repos\\AppCitaMedica\\AppCitaMedica\\AppCitaMedica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alejo\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512"
+  ],
+  "logs": []
+}
